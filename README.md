@@ -1,2 +1,2 @@
 # miRcorrNet
- KNIME workflow for miRcorrNet tool.
+ KNIME analytics workflow for miRcorrNet tool.
