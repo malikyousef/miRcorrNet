@@ -1,0 +1,15 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"ECM-receptor interaction",1.32945632625e-19,7,1
+"Transcriptional misregulation in cancer",3.98753353772e-05,6,1
+"Oocyte meiosis",0.000434400976447,8,1
+"Adherens junction",0.00107931324042,4,1
+"Glycosaminoglycan biosynthesis - heparan sulfate / heparin",0.0010896575854,2,1
+"RNA transport",0.00148533523385,8,1
+"Antigen processing and presentation",0.00411141564516,5,1
+"MAPK signaling pathway",0.0174922613387,11,1
+"One carbon pool by folate",0.0292658067132,3,1
+"mRNA surveillance pathway",0.0292658067132,7,1
+"Epstein-Barr virus infection",0.0292658067132,10,1
+"Hippo signaling pathway",0.0360533121764,6,1
+"Focal adhesion",0.0360533121764,10,1
+

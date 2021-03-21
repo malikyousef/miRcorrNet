@@ -1,0 +1,42 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Hippo signaling pathway",9.54903275711e-07,35,1
+"Proteoglycans in cancer",9.54903275711e-07,34,1
+Glioma,7.30598956074e-06,19,1
+"Endometrial cancer",1.37385132662e-05,18,1
+"Transcriptional misregulation in cancer",2.89716619588e-05,36,1
+"Signaling pathways regulating pluripotency of stem cells",6.4300989653e-05,33,1
+"Prostate cancer",8.72973650267e-05,27,1
+"Biotin metabolism",0.000156616572956,1,1
+"Thyroid cancer",0.000156616572956,11,1
+"Colorectal cancer",0.000251203723542,19,1
+"Protein processing in endoplasmic reticulum",0.000371325052716,38,1
+"Dorso-ventral axis formation",0.000630316974259,12,1
+"Estrogen signaling pathway",0.00085286253791,26,1
+"Lysine degradation",0.000923340073853,11,1
+"Non-small cell lung cancer",0.000923340073853,15,1
+"Viral carcinogenesis",0.00150553805386,31,1
+"Sphingolipid signaling pathway",0.00430485551677,26,1
+"Prolactin signaling pathway",0.00430485551677,17,1
+"Bacterial invasion of epithelial cells",0.00430485551677,18,1
+"Acute myeloid leukemia",0.00430485551677,15,1
+"Central carbon metabolism in cancer",0.00430485551677,17,1
+"Small cell lung cancer",0.00640472053087,21,1
+"Pancreatic cancer",0.00804885793797,17,1
+"p53 signaling pathway",0.0112199740722,18,1
+"Chronic myeloid leukemia",0.013603852375,17,1
+"Renal cell carcinoma",0.013673807741,18,1
+Melanoma,0.0165914379046,16,1
+"Terpenoid backbone biosynthesis",0.0171566260636,6,1
+"Hepatitis B",0.0176784944838,30,1
+"Pantothenate and CoA biosynthesis",0.0267039945946,4,1
+"HIF-1 signaling pathway",0.0267039945946,24,1
+"FoxO signaling pathway",0.0267039945946,29,1
+"Pathways in cancer",0.0267039945946,63,1
+"PI3K-Akt signaling pathway",0.0344581989918,53,1
+"Adherens junction",0.0382994794292,18,1
+"Neurotrophin signaling pathway",0.0383103932762,26,1
+"Regulation of actin cytoskeleton",0.0383103932762,36,1
+"RNA degradation",0.0385470446066,17,1
+"Adrenergic signaling in cardiomyocytes",0.0414649962556,23,1
+"Bladder cancer",0.0429058886962,11,1
+

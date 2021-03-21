@@ -1,0 +1,14 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",1.89731533524e-33,1,1
+"ECM-receptor interaction",5.68500075576e-11,6,1
+"Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",6.21975381713e-06,3,1
+"Steroid biosynthesis",2.33664827048e-05,3,1
+"Cell cycle",2.33664827048e-05,15,1
+"Glycosaminoglycan biosynthesis - heparan sulfate / heparin",8.42699005561e-05,3,1
+"Viral carcinogenesis",0.000718975536765,15,1
+"p53 signaling pathway",0.00145280441649,10,1
+"PI3K-Akt signaling pathway",0.0122780781224,24,1
+"FoxO signaling pathway",0.0177515180062,14,1
+"Transcriptional misregulation in cancer",0.028975546382,12,1
+"Dorso-ventral axis formation",0.0408493481143,5,1
+

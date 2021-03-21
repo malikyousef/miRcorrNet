@@ -1,0 +1,8 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",1.44017214159e-07,4,1
+"Proteoglycans in cancer",0.000869459535703,8,1
+"MicroRNAs in cancer",0.00368019420951,11,1
+"Adherens junction",0.00447921465847,5,1
+"Endometrial cancer",0.0129787210402,5,1
+"Sulfur metabolism",0.0180376208411,1,1
+

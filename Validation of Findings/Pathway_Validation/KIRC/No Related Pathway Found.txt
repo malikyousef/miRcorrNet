@@ -1,0 +1,2 @@
+Disease	Name of the miRNA
+KIRC	 hsa-miR-210

@@ -1,0 +1,12 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",1.03077996128e-35,2,1
+"Fatty acid biosynthesis",1.78070996004e-33,2,1
+"Fatty acid metabolism",2.09039775885e-15,3,1
+"Central carbon metabolism in cancer",0.0121277127571,6,1
+"ECM-receptor interaction",0.0213704769067,6,1
+"Proteoglycans in cancer",0.0213704769067,10,1
+Glioma,0.0381468723089,6,1
+"Prolactin signaling pathway",0.0483658159579,6,1
+"Transcriptional misregulation in cancer",0.0483658159579,7,1
+"Non-small cell lung cancer",0.0483658159579,5,1
+

@@ -1,0 +1,34 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",1.08439171583e-23,3,1
+"Lysine degradation",4.51366576741e-07,10,1
+"Cell cycle",4.58002729011e-06,30,1
+"Viral carcinogenesis",4.58002729011e-06,30,1
+"Valine, leucine and isoleucine biosynthesis",0.000177057720264,2,1
+"Adherens junction",0.000177057720264,13,1
+"Chronic myeloid leukemia",0.00023202669594,17,1
+"p53 signaling pathway",0.000815915576519,15,1
+"Proteoglycans in cancer",0.000877979738277,24,1
+"FoxO signaling pathway",0.00110624129776,24,1
+"Endometrial cancer",0.00110624129776,11,1
+"Pathways in cancer",0.00149855523193,42,1
+"Colorectal cancer",0.00157113789169,11,1
+"Thyroid cancer",0.0016962826845,7,1
+"Hippo signaling pathway",0.00232882654098,20,1
+"Prostate cancer",0.00232882654098,17,1
+Melanoma,0.00234063168163,12,1
+"Hepatitis B",0.00313544329109,23,1
+"2-Oxocarboxylic acid metabolism",0.00421872621143,4,1
+"Regulation of actin cytoskeleton",0.00678645811775,26,1
+"Bladder cancer",0.00678645811775,10,1
+"HTLV-I infection",0.0119583311865,34,1
+"MAPK signaling pathway",0.0140012761331,28,1
+"Protein processing in endoplasmic reticulum",0.0140012761331,22,1
+"Estrogen signaling pathway",0.0140012761331,12,1
+Glioma,0.0140012761331,11,1
+"Non-small cell lung cancer",0.0175031773516,9,1
+"Oocyte meiosis",0.0212534605504,15,1
+"Dorso-ventral axis formation",0.0256655772304,7,1
+"Thyroid hormone signaling pathway",0.0256655772304,19,1
+"TGF-beta signaling pathway",0.0332667563372,9,1
+"Small cell lung cancer",0.0397965793366,13,1
+

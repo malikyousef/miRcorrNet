@@ -1,0 +1,24 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",2.37916180474e-25,1,1
+"ECM-receptor interaction",6.22421891305e-16,10,1
+"TGF-beta signaling pathway",3.43213385743e-05,15,1
+"Viral carcinogenesis",4.94908658533e-05,24,1
+"Hippo signaling pathway",0.000154590521015,15,1
+"Steroid biosynthesis",0.000283522036285,4,1
+"Cell cycle",0.000424035312412,20,1
+"Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",0.000609801154001,3,1
+"Hepatitis B",0.000609801154001,18,1
+"Proteoglycans in cancer",0.00126990102572,22,1
+"p53 signaling pathway",0.00166137333898,13,1
+"PI3K-Akt signaling pathway",0.00166137333898,38,1
+"Lysine degradation",0.00255701372058,7,1
+"Small cell lung cancer",0.00255701372058,15,1
+"Chronic myeloid leukemia",0.00363013092538,13,1
+"Mucin type O-Glycan biosynthesis",0.00504435667131,5,1
+"FoxO signaling pathway",0.00600543106164,19,1
+"Epstein-Barr virus infection",0.0261581263629,22,1
+"Pathways in cancer",0.0367387214496,36,1
+"Pancreatic cancer",0.0367387214496,10,1
+Amoebiasis,0.0426914200781,10,1
+Spliceosome,0.0480168228851,17,1
+

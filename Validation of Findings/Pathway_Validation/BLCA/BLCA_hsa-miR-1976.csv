@@ -1,0 +1,6 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",2.91628791949e-33,1,1
+"Fatty acid metabolism",4.28321446964e-10,1,1
+"Proteoglycans in cancer",0.00207421397252,11,1
+Glioma,0.0205543502603,6,1
+

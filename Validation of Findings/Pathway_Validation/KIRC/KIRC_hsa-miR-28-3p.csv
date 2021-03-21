@@ -1,0 +1,7 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Adherens junction",2.12062451648e-05,7,1
+"Choline metabolism in cancer",0.0026188765939,7,1
+"Mucin type O-Glycan biosynthesis",0.00292918733397,2,1
+"Bacterial invasion of epithelial cells",0.0194798148122,4,1
+"Pancreatic cancer",0.0429296985085,5,1
+

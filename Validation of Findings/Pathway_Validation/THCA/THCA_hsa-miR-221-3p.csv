@@ -1,0 +1,13 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid elongation;0.000375246;1;1
+p53 signaling pathway;0.004468982;12;1
+Hippo signaling pathway;0.008816249;12;1
+Viral carcinogenesis;0.011933203;20;1
+PI3K-Akt signaling pathway;0.024649563;29;1
+MicroRNAs in cancer;0.025273664;26;1
+mRNA surveillance pathway;0.026112717;11;1
+Cell cycle;0.026112717;16;1
+Gap junction;0.026112717;5;1
+Lysine degradation;0.030525059;5;1
+Estrogen signaling pathway;0.030525059;7;1
+Chronic myeloid leukemia;0.030525059;9;1

@@ -1,0 +1,25 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Thyroid cancer",9.87058311034e-08,11,1
+"Hippo signaling pathway",1.63598199253e-06,18,1
+"Proteoglycans in cancer",6.16489930717e-06,25,1
+"Adherens junction",7.45759920851e-06,12,1
+"Viral carcinogenesis",2.69861303107e-05,27,1
+Melanoma,0.000146271236283,12,1
+"Regulation of actin cytoskeleton",0.000499219705997,27,1
+"Glycosaminoglycan biosynthesis - keratan sulfate",0.00364946328999,3,1
+"Endometrial cancer",0.00364946328999,10,1
+"Prostate cancer",0.00364946328999,14,1
+Alcoholism,0.00739765368017,21,1
+"Pathways in cancer",0.00739765368017,34,1
+"Chronic myeloid leukemia",0.0075685646213,11,1
+Shigellosis,0.00773357020818,12,1
+"Colorectal cancer",0.00773357020818,11,1
+"Bladder cancer",0.00911739812342,9,1
+"FoxO signaling pathway",0.0120612336783,17,1
+Glioma,0.0120612336783,9,1
+"Estrogen signaling pathway",0.013577820304,10,1
+"Non-small cell lung cancer",0.013577820304,9,1
+"Axon guidance",0.0151997357131,14,1
+"Hepatitis B",0.0220785831235,18,1
+"Central carbon metabolism in cancer",0.0227955397567,8,1
+

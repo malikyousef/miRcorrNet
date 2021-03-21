@@ -1,0 +1,25 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Bacterial invasion of epithelial cells",0.000140505185022,16,1
+"Pathways in cancer",0.000207453652198,43,1
+Shigellosis,0.000254558842568,14,1
+"Adherens junction",0.000867775111153,11,1
+"Viral carcinogenesis",0.000983639414167,22,1
+"Prostate cancer",0.000983639414167,18,1
+"p53 signaling pathway",0.0023287651528,14,1
+"N-Glycan biosynthesis",0.00273756127932,7,1
+"PI3K-Akt signaling pathway",0.00273756127932,38,1
+"Glycosaminoglycan biosynthesis - heparan sulfate / heparin",0.00340381442573,4,1
+"Lysine degradation",0.00376004840664,6,1
+"MicroRNAs in cancer",0.00764514726113,33,1
+"FoxO signaling pathway",0.0118774898053,17,1
+"Neurotrophin signaling pathway",0.0265966210237,17,1
+"Hepatitis B",0.0267010292623,17,1
+"Prolactin signaling pathway",0.0302742103923,9,1
+"Chronic myeloid leukemia",0.0302742103923,11,1
+"Proteoglycans in cancer",0.039834281018,20,1
+"Oocyte meiosis",0.0407682253211,13,1
+"Renal cell carcinoma",0.0407682253211,10,1
+Glioma,0.0407682253211,9,1
+"Bladder cancer",0.0407682253211,8,1
+"Central carbon metabolism in cancer",0.0407682253211,10,1
+

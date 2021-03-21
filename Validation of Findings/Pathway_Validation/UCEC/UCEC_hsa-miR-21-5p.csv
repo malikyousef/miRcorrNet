@@ -1,0 +1,22 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid elongation",4.87394161681e-06,6,1
+"Lysine degradation",1.71345088791e-05,12,1
+"Proteoglycans in cancer",2.32526384501e-05,32,1
+"Colorectal cancer",0.000921938857514,13,1
+"Pathways in cancer",0.00152643388768,49,1
+"Fatty acid metabolism",0.00216739690346,7,1
+"Fatty acid degradation",0.00341803727925,6,1
+"Thyroid hormone signaling pathway",0.00344703631841,19,1
+"Hippo signaling pathway",0.00385002204322,23,1
+"Biosynthesis of unsaturated fatty acids",0.00654218293669,4,1
+"FoxO signaling pathway",0.00654218293669,24,1
+"p53 signaling pathway",0.0140295225582,15,1
+"Hepatitis B",0.0140295225582,23,1
+"Endometrial cancer",0.0188275799407,11,1
+"Prolactin signaling pathway",0.0227718546655,13,1
+"Cell cycle",0.0243973016255,20,1
+"Bacterial invasion of epithelial cells",0.0243973016255,14,1
+"Thyroid cancer",0.0245362245606,8,1
+"Transcriptional misregulation in cancer",0.0332552570183,24,1
+"Sphingolipid metabolism",0.0447918627643,8,1
+

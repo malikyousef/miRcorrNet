@@ -1,0 +1,21 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid biosynthesis;4,61E-04;4;1
+Fatty acid metabolism;6,28E-01;13;1
+Viral carcinogenesis;2,95E+01;53;1
+Adherens junction;2,66E+04;22;1
+Hippo signaling pathway;3,43E+04;37;1
+Proteoglycans in cancer;3,63E+06;50;1
+Cell cycle;0.000657859939872;37;1
+Protein processing in endoplasmic reticulum;0.000844260517152;41;1
+TGF-beta signaling pathway;0.00116221424407;21;1
+Oocyte meiosis;0.0011954298642;29;1
+p53 signaling pathway;0.00186305693948;22;1
+Lysine degradation;0.00188769288237;13;1
+Hepatitis B;0.00188769288237;33;1
+Fatty acid degradation;0.00307366079519;9;1
+Epstein-Barr virus infection;0.00310717354376;50;1
+Prostate cancer;0.00319434973947;27;1
+Ubiquitin mediated proteolysis;0.00542256294809;33;1
+Fatty acid elongation;0.00949885364903;5;1
+RNA polymerase;0.0296163058252;11;1
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;0.0379571539478;5;1

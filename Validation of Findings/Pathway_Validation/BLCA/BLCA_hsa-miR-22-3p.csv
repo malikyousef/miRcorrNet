@@ -1,0 +1,21 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",7.19371124969e-18,5,1
+"Fatty acid biosynthesis",1.53688211942e-14,1,1
+"Hippo signaling pathway",4.32013509564e-11,28,1
+"Viral carcinogenesis",1.29289315963e-06,45,1
+"Hepatitis B",7.65613198647e-06,33,1
+"Transcriptional misregulation in cancer",1.36510988197e-05,38,1
+"Cell cycle",0.000101706232696,32,1
+"Central carbon metabolism in cancer",0.000209742734164,17,1
+"TGF-beta signaling pathway",0.000842600931026,18,1
+"Proteoglycans in cancer",0.000979056317886,37,1
+"Huntington's disease",0.00525155673165,31,1
+"Adherens junction",0.0117431750723,16,1
+"Pathogenic Escherichia coli infection",0.0117431750723,16,1
+"Renal cell carcinoma",0.0117431750723,16,1
+"2-Oxocarboxylic acid metabolism",0.0122728291715,5,1
+"Focal adhesion",0.0187114141657,41,1
+"Epstein-Barr virus infection",0.0226563577502,40,1
+"Endocrine and other factor-regulated calcium reabsorption",0.0394242062814,12,1
+"Estrogen signaling pathway",0.049140287208,20,1
+

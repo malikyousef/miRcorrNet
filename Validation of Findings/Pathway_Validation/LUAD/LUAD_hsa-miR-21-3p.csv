@@ -1,0 +1,16 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",5.59008693013e-23,1,1
+"Fatty acid metabolism",1.54313413956e-10,5,1
+"Proteoglycans in cancer",0.000358502776948,27,1
+"Viral carcinogenesis",0.00372552129421,21,1
+"Glycosaminoglycan biosynthesis - heparan sulfate / heparin",0.00514382913911,3,1
+Phagosome,0.0137021724302,16,1
+"Synaptic vesicle cycle",0.0137021724302,9,1
+"Steroid biosynthesis",0.0141343667402,2,1
+Spliceosome,0.0204560349022,18,1
+"Adherens junction",0.0204560349022,9,1
+"Epithelial cell signaling in Helicobacter pylori infection",0.0251954621457,12,1
+"Vibrio cholerae infection",0.0359317698926,10,1
+"Lysine degradation",0.0491056140003,5,1
+"2-Oxocarboxylic acid metabolism",0.0491056140003,3,1
+

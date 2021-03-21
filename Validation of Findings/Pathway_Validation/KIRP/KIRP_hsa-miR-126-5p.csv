@@ -1,0 +1,36 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Proteoglycans in cancer",1.07112726147e-09,22,1
+"Viral carcinogenesis",1.76075552703e-06,23,1
+"Non-small cell lung cancer",3.07614899414e-06,11,1
+"Endometrial cancer",0.000104755772471,11,1
+"Renal cell carcinoma",0.000270759020551,14,1
+"FoxO signaling pathway",0.000275660033898,22,1
+"Colorectal cancer",0.000275660033898,11,1
+Glioma,0.000275660033898,11,1
+"Chronic myeloid leukemia",0.000275660033898,14,1
+"Pancreatic cancer",0.000301273642071,12,1
+"Signaling pathways regulating pluripotency of stem cells",0.000403650077465,17,1
+"Mucin type O-Glycan biosynthesis",0.000604245403861,3,1
+"Prostate cancer",0.000875559030483,16,1
+"p53 signaling pathway",0.000907633190384,13,1
+"mTOR signaling pathway",0.00224404853691,12,1
+"Aldosterone-regulated sodium reabsorption",0.0034578105203,9,1
+"Bacterial invasion of epithelial cells",0.0034578105203,12,1
+"Prolactin signaling pathway",0.00641764984829,9,1
+"Neurotrophin signaling pathway",0.009999778109,17,1
+"Sphingolipid signaling pathway",0.0163837120111,13,1
+"Focal adhesion",0.0163837120111,23,1
+"Pathways in cancer",0.0163837120111,28,1
+"PI3K-Akt signaling pathway",0.0237946974389,28,1
+"Acute myeloid leukemia",0.0237946974389,9,1
+"Thyroid hormone signaling pathway",0.0272037894762,17,1
+Melanoma,0.0321307465101,10,1
+"Fatty acid degradation",0.0357591253317,1,1
+"Estrogen signaling pathway",0.0357591253317,10,1
+"AMPK signaling pathway",0.0395118497584,16,1
+"Fc gamma R-mediated phagocytosis",0.0395121092613,12,1
+"Circadian rhythm",0.0395121092613,5,1
+"Insulin signaling pathway",0.0410765833069,16,1
+"Hepatitis B",0.0479731488232,16,1
+"Fc epsilon RI signaling pathway",0.0492165471682,10,1
+

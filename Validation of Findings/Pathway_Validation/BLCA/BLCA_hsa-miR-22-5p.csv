@@ -1,0 +1,20 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",2.63734956041e-28,9,1
+"Adherens junction",7.00618508487e-10,20,1
+"Proteoglycans in cancer",2.03918506504e-08,37,1
+"Lysine degradation",0.000869107044271,8,1
+"Estrogen signaling pathway",0.000890743923464,19,1
+"Viral carcinogenesis",0.00479644164782,33,1
+"ECM-receptor interaction",0.00507785947317,9,1
+"Renal cell carcinoma",0.00507785947317,14,1
+"2-Oxocarboxylic acid metabolism",0.00564800100606,4,1
+Endocytosis,0.0067064657577,31,1
+"Glyoxylate and dicarboxylate metabolism",0.0174742377095,5,1
+"Protein processing in endoplasmic reticulum",0.0191176904254,27,1
+"Hippo signaling pathway",0.0191176904254,20,1
+"Focal adhesion",0.0200958758033,32,1
+"Bacterial invasion of epithelial cells",0.0225032843247,14,1
+"Regulation of actin cytoskeleton",0.030079236444,29,1
+"Pathogenic Escherichia coli infection",0.0357557609986,12,1
+"GnRH signaling pathway",0.037468415089,17,1
+

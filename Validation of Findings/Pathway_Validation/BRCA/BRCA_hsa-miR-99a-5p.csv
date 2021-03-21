@@ -1,0 +1,11 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Glycosphingolipid biosynthesis - lacto and neolacto series;5,18E+03;2;1
+Viral carcinogenesis;0.000990677130552;14;1
+Glioma;0.000990677130552;8;1
+p53 signaling pathway;0.00110535803825;11;1
+Proteoglycans in cancer;0.00388302200969;16;1
+Parkinson's disease;0.00657891241352;5;1
+HIF-1 signaling pathway;0.0247724026091;10;1
+Wnt signaling pathway;0.027515192174;8;1
+Epithelial cell signaling in Helicobacter pylori infection;0.035531009358;8;1
+Pathways in cancer;0.0455889096471;20;1

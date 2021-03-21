@@ -1,0 +1,13 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid biosynthesis;1.30E-28;1;1
+Fatty acid metabolism;6.80E-09;2;1
+Lysine degradation;0.002038378;5;1
+Protein processing in endoplasmic reticulum;0.002038378;18;1
+p53 signaling pathway;0.002276461;11;1
+Pantothenate and CoA biosynthesis;0.00337754;3;1
+ECM-receptor interaction;0.005372049;5;1
+Huntington's disease;0.005372049;8;1
+Cell cycle;0.014304739;13;1
+Viral carcinogenesis;0.01665575;15;1
+RNA transport;0.025618531;14;1
+Glioma;0.049260282;7;1

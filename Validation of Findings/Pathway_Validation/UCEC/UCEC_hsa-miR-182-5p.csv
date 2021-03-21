@@ -1,0 +1,43 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid biosynthesis;4.65E-15;3;1
+Viral carcinogenesis;4.29E-11;47;1
+Hepatitis B;2.10E-06;36;1
+Adherens junction;3.86E-06;22;1
+Cell cycle;7.07E-06;33;1
+Shigellosis;0.000217196;21;1
+Pancreatic cancer;0.00024012;19;1
+FoxO signaling pathway;0.000324281;34;1
+Bacterial invasion of epithelial cells;0.000324281;22;1
+Chronic myeloid leukemia;0.000324281;22;1
+Prostate cancer;0.000428152;27;1
+SNARE interactions in vesicular transport;0.000767573;11;1
+Estrogen signaling pathway;0.000911334;20;1
+Neurotrophin signaling pathway;0.001094348;30;1
+Hippo signaling pathway;0.001292006;28;1
+Prolactin signaling pathway;0.001865166;18;1
+Oocyte meiosis;0.002237703;25;1
+Ubiquitin mediated proteolysis;0.002237703;34;1
+AMPK signaling pathway;0.002237703;32;1
+p53 signaling pathway;0.002616181;20;1
+Protein processing in endoplasmic reticulum;0.002761991;36;1
+HTLV-I infection;0.002779918;55;1
+Endometrial cancer;0.002779918;15;1
+Non-small cell lung cancer;0.002779918;14;1
+Renal cell carcinoma;0.003707153;18;1
+Small cell lung cancer;0.003707153;23;1
+Glioma;0.006781281;16;1
+Endocytosis;0.00715864;40;1
+Pathways in cancer;0.007516153;71;1
+Sphingolipid signaling pathway;0.008376375;25;1
+Colorectal cancer;0.0100523;16;1
+Acute myeloid leukemia;0.0100523;15;1
+Measles;0.019089582;33;1
+Melanoma;0.019089582;16;1
+Thyroid hormone signaling pathway;0.020709856;27;1
+Epstein-Barr virus infection;0.023924875;43;1
+Insulin signaling pathway;0.025462584;31;1
+Transcriptional misregulation in cancer;0.026921077;33;1
+Proteoglycans in cancer;0.02748895;37;1
+Fc gamma R-mediated phagocytosis;0.030000691;22;1
+Choline metabolism in cancer;0.030174637;23;1
+Wnt signaling pathway;0.035851121;29;1

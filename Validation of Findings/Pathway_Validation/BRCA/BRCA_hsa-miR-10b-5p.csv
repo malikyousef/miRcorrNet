@@ -1,0 +1,13 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid biosynthesis;2,05E-20;1;1
+Fatty acid metabolism;1,24E+03;1;1
+Viral carcinogenesis;2,96E+06;14;1
+Chronic myeloid leukemia;0.000163278920753;8;1
+Pyrimidine metabolism;0.00643902448198;6;1
+Central carbon metabolism in cancer;0.00860942596847;5;1
+Cell cycle;0.014685982734;12;1
+Non-small cell lung cancer;0.014685982734;7;1
+p53 signaling pathway;0.0196705759963;8;1
+Circadian rhythm;0.0378204572006;6;1
+Bladder cancer;0.0393058409591;5;1
+Purine metabolism;0.0431040767192;7;1

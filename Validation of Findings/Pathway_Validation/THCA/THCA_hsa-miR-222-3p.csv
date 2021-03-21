@@ -1,0 +1,13 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Lysine degradation",0.000489706841636,5,1
+"Protein processing in endoplasmic reticulum",0.000489706841636,17,1
+"Cell adhesion molecules (CAMs)",0.000803724291853,9,1
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",0.000975964541914,5,1
+"Gap junction",0.00775657668858,4,1
+"HTLV-I infection",0.00902588846421,20,1
+Spliceosome,0.00905322162181,8,1
+"Ubiquitin mediated proteolysis",0.0118909460747,14,1
+"p53 signaling pathway",0.0209487196369,8,1
+"Cell cycle",0.0356748436967,12,1
+"mRNA surveillance pathway",0.0446171056006,8,1
+

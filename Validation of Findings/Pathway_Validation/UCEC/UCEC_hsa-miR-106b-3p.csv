@@ -1,0 +1,6 @@
+KEGG pathway;p-value;#genes;#miRNAs
+ECM-receptor interaction;5.29E-11;3;1
+Estrogen signaling pathway;0.018149684;3;1
+Cocaine addiction;0.018149684;4;1
+Hepatitis B;0.018149684;6;1
+Viral carcinogenesis;0.018149684;7;1

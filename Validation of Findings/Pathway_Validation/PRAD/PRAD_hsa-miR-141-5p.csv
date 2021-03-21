@@ -1,0 +1,8 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;0.001312452;19;1
+Protein processing in endoplasmic reticulum;0.001809204;22;1
+Oocyte meiosis;0.00238827;16;1
+Lysine degradation;0.011319682;5;1
+Prostate cancer;0.021834633;12;1
+Cell cycle;0.044978906;15;1
+Spliceosome;0.049315908;16;1

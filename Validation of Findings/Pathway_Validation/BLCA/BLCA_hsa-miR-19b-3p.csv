@@ -1,0 +1,31 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Proteoglycans in cancer",5.40369801128e-08,35,1
+"Viral carcinogenesis",5.80489595081e-07,31,1
+"ECM-receptor interaction",0.000150913785822,12,1
+"FoxO signaling pathway",0.000251442775763,29,1
+"p53 signaling pathway",0.000356484484529,18,1
+"Prolactin signaling pathway",0.000387970574993,17,1
+Glioma,0.000387970574993,15,1
+Melanoma,0.00150417892383,16,1
+"Prostate cancer",0.00189197784707,20,1
+"Signaling pathways regulating pluripotency of stem cells",0.00374618685984,24,1
+"Hepatitis B",0.00523907306957,26,1
+"Colorectal cancer",0.00523907306957,13,1
+"Transcriptional misregulation in cancer",0.00544076818435,24,1
+"Chronic myeloid leukemia",0.00557587540665,15,1
+"Sphingolipid signaling pathway",0.00587855483982,22,1
+"Progesterone-mediated oocyte maturation",0.00673557055918,19,1
+"Non-small cell lung cancer",0.00695369648437,12,1
+"Central carbon metabolism in cancer",0.00759177142562,13,1
+"Adrenergic signaling in cardiomyocytes",0.0122836711447,22,1
+"AMPK signaling pathway",0.0220908470898,22,1
+"Thyroid hormone signaling pathway",0.0234310132021,21,1
+"TGF-beta signaling pathway",0.0267073351792,12,1
+"Type II diabetes mellitus",0.0273325195508,11,1
+"Bladder cancer",0.0273325195508,10,1
+"HTLV-I infection",0.0300830001651,38,1
+"Pancreatic cancer",0.0305609293947,13,1
+"Endometrial cancer",0.038129165889,11,1
+"Estrogen signaling pathway",0.0407853250874,13,1
+"PI3K-Akt signaling pathway",0.0489708721333,42,1
+

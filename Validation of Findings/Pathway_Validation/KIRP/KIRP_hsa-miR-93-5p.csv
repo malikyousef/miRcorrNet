@@ -1,0 +1,53 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",4.28175071167e-19,5,1
+"mRNA surveillance pathway",1.71520215152e-05,27,1
+"TGF-beta signaling pathway",1.87049111991e-05,19,1
+"FoxO signaling pathway",2.56100102318e-05,34,1
+"Pathways in cancer",4.17531199722e-05,67,1
+"Chronic myeloid leukemia",8.08692950304e-05,21,1
+"Bladder cancer",0.000114228520389,16,1
+"Proteoglycans in cancer",0.000238863541574,36,1
+"MAPK signaling pathway",0.000247863873983,50,1
+"Signaling pathways regulating pluripotency of stem cells",0.000247863873983,30,1
+"Hepatitis B",0.000247863873983,31,1
+"Colorectal cancer",0.000247863873983,18,1
+Glioma,0.000247863873983,17,1
+"Prolactin signaling pathway",0.000278108662871,20,1
+"Renal cell carcinoma",0.000431124139945,19,1
+"Viral carcinogenesis",0.000457606838892,36,1
+"Pancreatic cancer",0.0005147225602,19,1
+"p53 signaling pathway",0.000716505497406,19,1
+"Thyroid cancer",0.000731329506089,10,1
+"Neurotrophin signaling pathway",0.00103187199107,29,1
+Melanoma,0.00115931052411,16,1
+"Hepatitis C",0.00166554037559,31,1
+"Ubiquitin mediated proteolysis",0.00178317909572,32,1
+"Steroid biosynthesis",0.00187519128774,4,1
+"Prostate cancer",0.0019571585152,22,1
+"Hippo signaling pathway",0.00211413146412,32,1
+"Wnt signaling pathway",0.00285957553994,29,1
+"Lysine degradation",0.0029350182597,9,1
+"RNA transport",0.00343618695615,33,1
+"mTOR signaling pathway",0.00343618695615,17,1
+"RNA degradation",0.0035025529023,20,1
+"Sphingolipid signaling pathway",0.00373687404477,25,1
+"Non-small cell lung cancer",0.00496716866829,14,1
+"Bacterial invasion of epithelial cells",0.00611336481674,18,1
+"Protein processing in endoplasmic reticulum",0.00759604459344,33,1
+"Endometrial cancer",0.00800922892064,14,1
+"Thyroid hormone signaling pathway",0.00913542311014,26,1
+"Focal adhesion",0.0128637899127,38,1
+"Insulin signaling pathway",0.0145786254578,28,1
+"Choline metabolism in cancer",0.0150861204513,21,1
+"Oocyte meiosis",0.0209078425927,22,1
+"Cell cycle",0.0216414512272,26,1
+"AMPK signaling pathway",0.0216414512272,26,1
+"TNF signaling pathway",0.0217824415578,21,1
+"Acute myeloid leukemia",0.0225209032121,13,1
+"Transcriptional misregulation in cancer",0.0242946996463,29,1
+"Regulation of actin cytoskeleton",0.0273651858093,34,1
+"Progesterone-mediated oocyte maturation",0.0287167025798,19,1
+Endocytosis,0.0299474323499,35,1
+Shigellosis,0.0359957984391,15,1
+"PI3K-Akt signaling pathway",0.0494782240578,52,1
+

@@ -1,0 +1,28 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Adherens junction;1.72E-06;16;1
+Bacterial invasion of epithelial cells;0.000837894;13;1
+ECM-receptor interaction;0.000841444;8;1
+Shigellosis;0.000841444;12;1
+Prostate cancer;0.000841444;14;1
+Viral carcinogenesis;0.002161915;23;1
+Protein processing in endoplasmic reticulum;0.003804824;20;1
+Proteoglycans in cancer;0.005888666;22;1
+Steroid biosynthesis;0.00630981;2;1
+p53 signaling pathway;0.006675243;12;1
+FoxO signaling pathway;0.007513252;18;1
+Oocyte meiosis;0.007513252;15;1
+Cell cycle;0.010762151;16;1
+PI3K-Akt signaling pathway;0.017539719;33;1
+Biosynthesis of amino acids;0.024187397;10;1
+mRNA surveillance pathway;0.025280857;13;1
+ErbB signaling pathway;0.025280857;8;1
+Ubiquitin mediated proteolysis;0.025280857;13;1
+AMPK signaling pathway;0.033477521;16;1
+RNA transport;0.039063508;19;1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);0.040646277;6;1
+Pathogenic Escherichia coli infection;0.041762368;9;1
+Focal adhesion;0.04190919;22;1
+Hepatitis B;0.04190919;11;1
+HIF-1 signaling pathway;0.04210721;14;1
+Salmonella infection;0.04210721;12;1
+Estrogen signaling pathway;0.049039356;8;1

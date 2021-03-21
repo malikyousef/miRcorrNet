@@ -1,0 +1,9 @@
+KEGG pathway;p-value;#genes;#miRNAs;
+Hippo signaling pathway;0.000265639;8;1;
+Ubiquitin mediated proteolysis;0.000302773;12;1;
+Steroid biosynthesis;0.000529937;1;1;
+Adherens junction;0.000963825;7;1;
+Endocytosis;0.009244746;13;1;
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);0.028693651;5;1;
+Valine; leucine and isoleucine biosynthesis;0.030360672;1;1
+Bacterial invasion of epithelial cells;0.032695157;6;1;

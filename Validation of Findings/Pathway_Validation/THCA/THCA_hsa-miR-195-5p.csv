@@ -1,0 +1,27 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Viral carcinogenesis;1.05E-05;39;1
+Hepatitis B;3.87E-05;31;1
+Hippo signaling pathway;5.47E-05;28;1
+Oocyte meiosis;0.000184969;24;1
+Proteoglycans in cancer;0.000236367;36;1
+Adherens junction;0.000532414;16;1
+Pathways in cancer;0.000755368;62;1
+Fatty acid degradation;0.000804718;6;1
+Epstein-Barr virus infection;0.000961214;41;1
+Fatty acid metabolism;0.001676494;10;1
+p53 signaling pathway;0.002034258;18;1
+TGF-beta signaling pathway;0.002034258;16;1
+HTLV-I infection;0.003330539;44;1
+Cell cycle;0.004167649;29;1
+Prostate cancer;0.005204814;22;1
+Fatty acid elongation;0.007615026;3;1
+Shigellosis;0.010668912;16;1
+Glycosaminoglycan biosynthesis - chondroitin sulfate;;;
+Bacterial invasion of epithelial cells;0.016726529;;
+Small cell lung cancer;0.030781189;18;1
+Chronic myeloid leukemia;0.030805451;15;1
+RNA polymerase;0.031475868;9;1
+Bladder cancer;0.033708884;11;1
+Protein processing in endoplasmic reticulum;0.03555;;
+Progesterone-mediated oocyte maturation;0.036872195;;
+Mucin type O-Glycan biosynthesis;0.038705007;4;1

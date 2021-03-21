@@ -1,0 +1,11 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Hippo signaling pathway",0.00160797765957,7,1
+"Neurotrophin signaling pathway",0.00160797765957,13,1
+Glioma,0.00160797765957,8,1
+"Prostate cancer",0.00700569951536,11,1
+"Estrogen signaling pathway",0.00992484952123,9,1
+"ErbB signaling pathway",0.0310749127233,11,1
+"Adherens junction",0.0310749127233,4,1
+"Endometrial cancer",0.0310749127233,6,1
+"NF-kappa B signaling pathway",0.0399521252992,6,1
+

@@ -1,0 +1,33 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",1.26427226882e-18,2,1
+"Proteoglycans in cancer",4.37439865177e-11,39,1
+"Viral carcinogenesis",2.70562991115e-07,33,1
+"Pathways in cancer",1.29212834265e-06,63,1
+"Biotin metabolism",4.35575704405e-05,1,1
+"ECM-receptor interaction",9.56616119804e-05,12,1
+"p53 signaling pathway",0.000125371778156,19,1
+"Hepatitis B",0.000591766802012,27,1
+"Chronic myeloid leukemia",0.00154276388637,15,1
+"Fatty acid metabolism",0.00273328141653,5,1
+"MicroRNAs in cancer",0.00367715408824,41,1
+"Protein processing in endoplasmic reticulum",0.005761956352,27,1
+"Hippo signaling pathway",0.00843888771638,26,1
+"Adherens junction",0.00843888771638,17,1
+"Long-term depression",0.00843888771638,9,1
+"Thyroid cancer",0.0123684804429,9,1
+"Prostate cancer",0.0134282646937,18,1
+"Central carbon metabolism in cancer",0.0134282646937,12,1
+"Thyroid hormone signaling pathway",0.0224259835022,20,1
+"PI3K-Akt signaling pathway",0.0226212370833,48,1
+"mRNA surveillance pathway",0.0343075005078,17,1
+"Sphingolipid signaling pathway",0.0343075005078,20,1
+"AMPK signaling pathway",0.0343075005078,22,1
+"Gap junction",0.0353246198285,10,1
+"Bladder cancer",0.0364206908063,10,1
+"Glycosaminoglycan biosynthesis - heparan sulfate / heparin",0.0405318726118,4,1
+"Focal adhesion",0.0405318726118,32,1
+Glioma,0.0423894292703,12,1
+"Ubiquitin mediated proteolysis",0.0462583352396,24,1
+"Endometrial cancer",0.0473892517467,11,1
+Melanoma,0.0473892517467,12,1
+

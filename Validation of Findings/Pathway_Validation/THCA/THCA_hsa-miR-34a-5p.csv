@@ -1,0 +1,36 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid biosynthesis;1.34E-08;4;1
+Adherens junction;3.59E-06;31;1
+Cell cycle;1.42E-05;52;1
+Fatty acid metabolism;3.24E-05;14;1
+Proteoglycans in cancer;7.39E-05;66;1
+Other types of O-glycan biosynthesis;0.000132181;13;1
+Colorectal cancer;0.000132181;29;1
+Bladder cancer;0.000132181;22;1
+Pancreatic cancer;0.000185476;33;1
+Thyroid cancer;0.000227035;16;1
+Chronic myeloid leukemia;0.000227035;32;1
+Glycosphingolipid biosynthesis - lacto and neolacto series;0.000357422;9;1
+Melanoma;0.000357422;30;1
+Glioma;0.000475233;26;1
+Regulation of actin cytoskeleton;0.00053776;71;1
+Pathways in cancer;0.00053776;109;1
+Non-small cell lung cancer;0.00053776;26;1
+Transcriptional misregulation in cancer;0.000622783;62;1
+Hepatitis B;0.000903904;49;1
+DNA replication;0.000953357;17;1
+Thyroid hormone signaling pathway;0.000990141;44;1
+p53 signaling pathway;0.001561864;31;1
+Central carbon metabolism in cancer;0.001667754;27;1
+Endometrial cancer;0.004231315;22;1
+Prostate cancer;0.00587314;36;1
+Endocytosis;0.006850835;65;1
+Renal cell carcinoma;0.007860871;26;1
+Viral carcinogenesis;0.008066949;63;1
+Alcoholism;0.0082475;60;1
+Bacterial invasion of epithelial cells;0.009808611;29;1
+HTLV-I infection;0.01037543;81;1
+MAPK signaling pathway;0.030812012;76;1
+HIF-1 signaling pathway;0.049199796;35;1
+Progesterone-mediated oocyte maturation;0.049199796;31;1
+Shigellosis;0.049199796;24;1

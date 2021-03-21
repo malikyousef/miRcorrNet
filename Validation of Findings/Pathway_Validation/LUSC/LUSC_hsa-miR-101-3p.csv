@@ -1,0 +1,19 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",3.37937117857e-22,2,1
+"Proteoglycans in cancer",5.47785193708e-06,28,1
+"Adherens junction",1.59322511021e-05,17,1
+"Hippo signaling pathway",0.000147205629299,20,1
+"Viral carcinogenesis",0.00377254551108,28,1
+"TGF-beta signaling pathway",0.00649487564982,11,1
+"Colorectal cancer",0.00780061658099,11,1
+"Oocyte meiosis",0.0104343478344,18,1
+"Axon guidance",0.0115008063062,14,1
+"Fatty acid metabolism",0.0117372811775,2,1
+"Circadian entrainment",0.0117372811775,8,1
+"Lysine degradation",0.0151781467528,6,1
+"p53 signaling pathway",0.0161029560309,14,1
+"Protein processing in endoplasmic reticulum",0.0360591424344,21,1
+"Cell cycle",0.0385585706553,21,1
+"Pantothenate and CoA biosynthesis",0.0407773802518,3,1
+"Transcriptional misregulation in cancer",0.0463922440283,21,1
+

@@ -1,0 +1,38 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"ECM-receptor interaction",3.455534258e-58,20,1
+"Fatty acid biosynthesis",6.88587122499e-20,2,1
+"Fatty acid metabolism",1.4177456744e-07,5,1
+"Viral carcinogenesis",2.46003677271e-07,31,1
+"Colorectal cancer",4.02220658538e-07,19,1
+Amoebiasis,1.13638279688e-05,20,1
+"Endometrial cancer",3.0127393978e-05,15,1
+"Focal adhesion",6.54979205922e-05,40,1
+"Pathways in cancer",6.54979205922e-05,56,1
+"PI3K-Akt signaling pathway",9.08391335663e-05,53,1
+"Small cell lung cancer",0.000114154939969,21,1
+"Lysine degradation",0.000114569324995,9,1
+"Adherens junction",0.000131765557203,14,1
+"Hepatitis B",0.000178567284542,26,1
+"Steroid biosynthesis",0.000215774910313,3,1
+Glioma,0.000779892799538,14,1
+"Hippo signaling pathway",0.000848660108518,20,1
+"p53 signaling pathway",0.00085267801591,16,1
+"Chronic myeloid leukemia",0.00278879734628,15,1
+"Central carbon metabolism in cancer",0.00450783719638,13,1
+"Prostate cancer",0.0046394485127,19,1
+"Fatty acid elongation",0.00512904574521,2,1
+"Bacterial invasion of epithelial cells",0.00645377144976,15,1
+"Proteoglycans in cancer",0.00719541648287,28,1
+"Pancreatic cancer",0.00849554728161,13,1
+Melanoma,0.0097302622255,13,1
+"Bladder cancer",0.0190544715359,10,1
+"Sulfur metabolism",0.0222234538207,2,1
+"FoxO signaling pathway",0.0239405681659,21,1
+"Cell cycle",0.0239405681659,22,1
+"Prolactin signaling pathway",0.0239405681659,13,1
+"HTLV-I infection",0.0239405681659,35,1
+"Non-small cell lung cancer",0.0239405681659,10,1
+"Thyroid hormone signaling pathway",0.0390316819522,18,1
+"Protein digestion and absorption",0.0390316819522,16,1
+"Huntington's disease",0.0437349489689,17,1
+

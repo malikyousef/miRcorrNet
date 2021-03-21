@@ -1,0 +1,11 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Transcriptional misregulation in cancer",2.06504971022e-05,10,1
+"Pathways in cancer",0.000208239498512,19,1
+"Huntington's disease",0.00341472881325,5,1
+"Chronic myeloid leukemia",0.00341472881325,8,1
+"Bladder cancer",0.00361617194751,6,1
+"Colorectal cancer",0.00526743627925,7,1
+"Proteoglycans in cancer",0.00542479565182,9,1
+"Endometrial cancer",0.0193009470779,5,1
+"Acute myeloid leukemia",0.0347483176745,6,1
+

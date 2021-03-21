@@ -1,0 +1,40 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Prion diseases",7.59001654609e-14,10,1
+"Fatty acid biosynthesis",7.70078748745e-11,4,1
+"Viral carcinogenesis",4.0463582014e-09,69,1
+"Proteoglycans in cancer",1.05886412305e-08,61,1
+"Adherens junction",6.56107343622e-08,31,1
+"TGF-beta signaling pathway",6.71668253979e-08,31,1
+"Hepatitis B",1.03814273392e-06,47,1
+"Cell cycle",3.3781563575e-06,47,1
+"Fatty acid metabolism",1.48187636328e-05,13,1
+"Oocyte meiosis",2.74675949782e-05,38,1
+"RNA transport",0.000406318161882,55,1
+"Hippo signaling pathway",0.000406318161882,41,1
+"Protein processing in endoplasmic reticulum",0.000445715906514,56,1
+"Prostate cancer",0.000445715906514,34,1
+"p53 signaling pathway",0.00088786289727,28,1
+"Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",0.0010473127938,7,1
+"Signaling pathways regulating pluripotency of stem cells",0.00179381421262,43,1
+"Pathways in cancer",0.00199220155457,104,1
+"Glycosaminoglycan biosynthesis - keratan sulfate",0.00207133161933,5,1
+"Dorso-ventral axis formation",0.00341918994408,14,1
+Shigellosis,0.00342866620598,25,1
+"Chronic myeloid leukemia",0.00411482862213,24,1
+"Lysine degradation",0.00425901612532,17,1
+"Other types of O-glycan biosynthesis",0.0045318242174,10,1
+"Bacterial invasion of epithelial cells",0.00722547226099,24,1
+"Bladder cancer",0.0114736661665,16,1
+"Epstein-Barr virus infection",0.0115395105197,60,1
+"Ribosome biogenesis in eukaryotes",0.0122164778374,30,1
+"Small cell lung cancer",0.0122164778374,29,1
+"Colorectal cancer",0.0142104027966,22,1
+Glioma,0.0178531464713,21,1
+"Ubiquitin mediated proteolysis",0.0203801072693,40,1
+"Pancreatic cancer",0.0220690675597,24,1
+"Notch signaling pathway",0.0331290552458,18,1
+"Long-term depression",0.0331290552458,16,1
+"Steroid biosynthesis",0.0366005690239,5,1
+"TNF signaling pathway",0.0366005690239,33,1
+"Thyroid cancer",0.0472956928759,11,1
+

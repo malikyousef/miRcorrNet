@@ -1,0 +1,10 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"FoxO signaling pathway",0.0357163787994,5,1
+"Prolactin signaling pathway",0.0357163787994,4,1
+"Pathways in cancer",0.0357163787994,8,1
+"Colorectal cancer",0.0357163787994,3,1
+"Pantothenate and CoA biosynthesis",0.049392021184,1,1
+"Endometrial cancer",0.049392021184,4,1
+Glioma,0.049392021184,3,1
+"Prostate cancer",0.049392021184,5,1
+

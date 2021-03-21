@@ -1,0 +1,14 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Lysine degradation",0.000112261942403,6,1
+"Adherens junction",0.000167123540467,10,1
+"Hippo signaling pathway",0.000353976924585,15,1
+"ECM-receptor interaction",0.000353976924585,6,1
+Glioma,0.00121015142358,9,1
+"Oocyte meiosis",0.00127206309469,13,1
+"Proteoglycans in cancer",0.00127206309469,15,1
+"Circadian entrainment",0.0265811509132,7,1
+"Long-term depression",0.0270084849407,6,1
+"Signaling pathways regulating pluripotency of stem cells",0.0418419810165,12,1
+"Chronic myeloid leukemia",0.0418419810165,9,1
+"Adrenergic signaling in cardiomyocytes",0.0475216078439,9,1
+

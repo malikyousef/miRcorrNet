@@ -1,0 +1,23 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Nucleotide excision repair",0.000196114964598,8,1
+"Base excision repair",0.000926450736355,5,1
+"Cell cycle",0.00212155876861,12,1
+"Hepatitis B",0.00212155876861,12,1
+"Oocyte meiosis",0.00266013631915,9,1
+Glioma,0.0032623622881,7,1
+Proteasome,0.00507497506739,6,1
+"Viral carcinogenesis",0.00507497506739,12,1
+"Thyroid cancer",0.00618079402147,5,1
+"DNA replication",0.0103900736055,5,1
+"RNA transport",0.0167380514005,12,1
+"Prostate cancer",0.0167380514005,10,1
+"Homologous recombination",0.0177740015524,4,1
+"Epstein-Barr virus infection",0.0239438514153,16,1
+"Transcriptional misregulation in cancer",0.0239438514153,5,1
+"Pancreatic cancer",0.0239438514153,7,1
+"Bladder cancer",0.0239438514153,5,1
+"Estrogen signaling pathway",0.0242371185015,7,1
+Shigellosis,0.0317567436754,7,1
+"Hippo signaling pathway",0.0384476305862,5,1
+Melanoma,0.040083177357,7,1
+

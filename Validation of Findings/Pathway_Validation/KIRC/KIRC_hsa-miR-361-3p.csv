@@ -1,0 +1,9 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",3.30802224203e-33,1,1
+"Fatty acid metabolism",5.07061000485e-13,4,1
+"ECM-receptor interaction",1.13648578304e-11,7,1
+"Steroid biosynthesis",5.79120710759e-06,2,1
+"Lysine degradation",2.71955052708e-05,5,1
+"Hippo signaling pathway",0.0001261286458,8,1
+"Viral carcinogenesis",0.00101265953979,11,1
+

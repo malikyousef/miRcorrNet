@@ -1,0 +1,13 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",6.59065045802e-24,1,1
+"ECM-receptor interaction",4.20930907058e-09,9,1
+"Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",1.0746599588e-05,4,1
+"Fatty acid metabolism",0.000476824920364,2,1
+"Adherens junction",0.000526830659824,11,1
+"Lysine degradation",0.00187272890897,8,1
+"Proteoglycans in cancer",0.00911655261096,19,1
+"Focal adhesion",0.0145751527598,25,1
+"Cell cycle",0.0192201990111,16,1
+Glioma,0.0282005869051,9,1
+"Central carbon metabolism in cancer",0.0282005869051,7,1
+

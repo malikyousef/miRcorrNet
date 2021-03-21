@@ -1,0 +1,15 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Proteoglycans in cancer",0.000333826333488,13,1
+"Adherens junction",0.00113676730138,8,1
+"Estrogen signaling pathway",0.00113676730138,10,1
+"Hepatitis B",0.00160305192718,13,1
+Glioma,0.00226102665912,8,1
+"Prolactin signaling pathway",0.00889075403772,8,1
+"Viral carcinogenesis",0.0146998545014,14,1
+"TGF-beta signaling pathway",0.0291843181241,5,1
+"Other types of O-glycan biosynthesis",0.039575148203,1,1
+"Base excision repair",0.039575148203,5,1
+"Vasopressin-regulated water reabsorption",0.039575148203,6,1
+"Sphingolipid signaling pathway",0.0414066948771,8,1
+"Pancreatic cancer",0.0441065230494,6,1
+

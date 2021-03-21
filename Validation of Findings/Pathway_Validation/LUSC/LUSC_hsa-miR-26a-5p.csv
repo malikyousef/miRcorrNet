@@ -1,0 +1,29 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Protein processing in endoplasmic reticulum",6.09907799886e-06,36,1
+"Hippo signaling pathway",4.04908680731e-05,26,1
+"Cell cycle",0.000197151618764,29,1
+"Biosynthesis of unsaturated fatty acids",0.00046447368303,4,1
+"Oocyte meiosis",0.000719505193097,24,1
+"p53 signaling pathway",0.0011145557783,18,1
+"Signaling pathways regulating pluripotency of stem cells",0.00186467964973,27,1
+"Colorectal cancer",0.00231985107388,14,1
+"Mucin type O-Glycan biosynthesis",0.0026715534615,5,1
+"TGF-beta signaling pathway",0.00442542226906,19,1
+"Glycosaminoglycan biosynthesis - keratan sulfate",0.0112108884763,4,1
+"Pathways in cancer",0.0118771300133,59,1
+"Wnt signaling pathway",0.0125503821745,24,1
+"Thyroid hormone signaling pathway",0.0137221751051,20,1
+"Steroid biosynthesis",0.0137480529767,3,1
+"Adherens junction",0.0137480529767,11,1
+"Chronic myeloid leukemia",0.0137480529767,16,1
+"Lysine degradation",0.0264177314058,8,1
+"Prolactin signaling pathway",0.0264177314058,16,1
+"Viral carcinogenesis",0.0264177314058,30,1
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",0.0264177314058,9,1
+"Proteoglycans in cancer",0.0295279456909,34,1
+"Inositol phosphate metabolism",0.0374611886291,11,1
+"Adipocytokine signaling pathway",0.0374611886291,13,1
+"Axon guidance",0.0379005821943,19,1
+"Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate",0.0407839454414,4,1
+"Transcriptional misregulation in cancer",0.0459379065933,28,1
+

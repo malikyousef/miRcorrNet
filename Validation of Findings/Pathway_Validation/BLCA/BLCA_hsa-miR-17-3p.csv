@@ -1,0 +1,26 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",5.81298500892e-17,1,1
+"Adherens junction",3.81995765195e-07,17,1
+"TGF-beta signaling pathway",4.17126371199e-05,16,1
+"Fatty acid metabolism",5.31395826102e-05,5,1
+"Hepatitis B",5.31395826102e-05,27,1
+"Proteoglycans in cancer",7.13428209845e-05,35,1
+"Pathways in cancer",0.000104235573558,59,1
+"Chronic myeloid leukemia",0.000255281642756,19,1
+"Hippo signaling pathway",0.00026495413106,27,1
+"RNA transport",0.00147588991998,31,1
+"Colorectal cancer",0.00463532103089,13,1
+"Long-term depression",0.00570299633595,10,1
+Glioma,0.00570299633595,14,1
+"FoxO signaling pathway",0.0116893359784,24,1
+Endocytosis,0.0133440474035,32,1
+"Focal adhesion",0.0175871397456,35,1
+"Signaling pathways regulating pluripotency of stem cells",0.0175871397456,24,1
+"Transcriptional misregulation in cancer",0.0175871397456,29,1
+"Bladder cancer",0.0175871397456,11,1
+"Estrogen signaling pathway",0.0227038971537,18,1
+"Rap1 signaling pathway",0.0230198719384,32,1
+"Bacterial invasion of epithelial cells",0.0245093134505,15,1
+"Thyroid hormone signaling pathway",0.0305731222733,20,1
+"Thyroid cancer",0.0392754737763,8,1
+

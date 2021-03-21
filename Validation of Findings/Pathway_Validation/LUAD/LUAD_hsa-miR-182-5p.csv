@@ -1,0 +1,44 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",4.64904097917e-15,3,1
+"Viral carcinogenesis",4.28982334179e-11,47,1
+"Hepatitis B",2.0964849852e-06,36,1
+"Adherens junction",3.85921751931e-06,22,1
+"Cell cycle",7.07205107443e-06,33,1
+Shigellosis,0.000217195722069,21,1
+"Pancreatic cancer",0.000240120220947,19,1
+"FoxO signaling pathway",0.000324280780247,34,1
+"Bacterial invasion of epithelial cells",0.000324280780247,22,1
+"Chronic myeloid leukemia",0.000324280780247,22,1
+"Prostate cancer",0.000428152213103,27,1
+"SNARE interactions in vesicular transport",0.000767573051753,11,1
+"Estrogen signaling pathway",0.000911333609358,20,1
+"Neurotrophin signaling pathway",0.0010943484157,30,1
+"Hippo signaling pathway",0.00129200620541,28,1
+"Prolactin signaling pathway",0.00186516647079,18,1
+"Oocyte meiosis",0.00223770307514,25,1
+"Ubiquitin mediated proteolysis",0.00223770307514,34,1
+"AMPK signaling pathway",0.00223770307514,32,1
+"p53 signaling pathway",0.00261618127371,20,1
+"Protein processing in endoplasmic reticulum",0.002761990592,36,1
+"HTLV-I infection",0.00277991761348,55,1
+"Endometrial cancer",0.00277991761348,15,1
+"Non-small cell lung cancer",0.00277991761348,14,1
+"Renal cell carcinoma",0.00370715283743,18,1
+"Small cell lung cancer",0.00370715283743,23,1
+Glioma,0.00678128061801,16,1
+Endocytosis,0.00715864029458,40,1
+"Pathways in cancer",0.00751615272016,71,1
+"Sphingolipid signaling pathway",0.00837637530138,25,1
+"Colorectal cancer",0.0100522998365,16,1
+"Acute myeloid leukemia",0.0100522998365,15,1
+Measles,0.0190895822007,33,1
+Melanoma,0.0190895822007,16,1
+"Thyroid hormone signaling pathway",0.0207098558905,27,1
+"Epstein-Barr virus infection",0.023924874975,43,1
+"Insulin signaling pathway",0.0254625841026,31,1
+"Transcriptional misregulation in cancer",0.0269210766235,33,1
+"Proteoglycans in cancer",0.0274889504145,37,1
+"Fc gamma R-mediated phagocytosis",0.0300006914988,22,1
+"Choline metabolism in cancer",0.0301746365603,23,1
+"Wnt signaling pathway",0.0358511208318,29,1
+

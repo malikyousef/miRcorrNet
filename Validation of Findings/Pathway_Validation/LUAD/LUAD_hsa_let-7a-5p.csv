@@ -1,0 +1,33 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Cell cycle",5.62309205211e-09,43,1
+"Lysine degradation",6.15051400976e-08,15,1
+"Viral carcinogenesis",1.30971066503e-07,48,1
+"Hippo signaling pathway",2.76052956227e-07,42,1
+"Oocyte meiosis",1.20126943144e-06,35,1
+"Hepatitis B",3.20249705641e-06,42,1
+"ECM-receptor interaction",5.73957620073e-06,15,1
+"Adherens junction",6.77725927839e-06,28,1
+"Thyroid hormone signaling pathway",5.08456725988e-05,34,1
+"Proteoglycans in cancer",0.000486045029208,49,1
+"Other types of O-glycan biosynthesis",0.00153843861321,7,1
+"Bacterial invasion of epithelial cells",0.00153843861321,21,1
+"p53 signaling pathway",0.00195607138313,23,1
+"TGF-beta signaling pathway",0.00246691738288,27,1
+"Chronic myeloid leukemia",0.00299525108906,20,1
+Endocytosis,0.00352324334325,45,1
+"Pathways in cancer",0.00380514510027,79,1
+"Transcriptional misregulation in cancer",0.00454549574695,40,1
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",0.00454549574695,11,1
+"MAPK signaling pathway",0.00708956276502,51,1
+Shigellosis,0.00742729383921,20,1
+"FoxO signaling pathway",0.00949905943031,35,1
+"Huntington's disease",0.0125013965948,34,1
+"Small cell lung cancer",0.0151307311168,23,1
+"Glycosaminoglycan biosynthesis - keratan sulfate",0.0155994772109,3,1
+Glioma,0.0155994772109,17,1
+"Ubiquitin mediated proteolysis",0.0178792164847,35,1
+"Salmonella infection",0.0324124022039,21,1
+"HTLV-I infection",0.0324124022039,54,1
+"Colorectal cancer",0.0324124022039,15,1
+"Bladder cancer",0.0324124022039,13,1
+

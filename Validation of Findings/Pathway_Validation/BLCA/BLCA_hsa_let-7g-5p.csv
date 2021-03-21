@@ -1,0 +1,34 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"ECM-receptor interaction",1.55841033221e-07,12,1
+"Viral carcinogenesis",5.08799059127e-06,39,1
+"Cell cycle",6.35031339814e-06,32,1
+"Hippo signaling pathway",1.31303764509e-05,34,1
+"Proteoglycans in cancer",1.31303764509e-05,44,1
+"Hepatitis B",2.12497356651e-05,35,1
+"Thyroid hormone signaling pathway",2.46681838752e-05,29,1
+"Lysine degradation",5.17789868964e-05,11,1
+"Chronic myeloid leukemia",0.000438974126129,19,1
+"MAPK signaling pathway",0.000474723269665,46,1
+"Adherens junction",0.000543269803896,23,1
+"Pathways in cancer",0.000646530133258,67,1
+Glioma,0.000646530133258,17,1
+"Oocyte meiosis",0.000950768300355,26,1
+"Small cell lung cancer",0.00275596457632,22,1
+"Protein processing in endoplasmic reticulum",0.00326386097299,34,1
+Endocytosis,0.00728577004567,40,1
+Melanoma,0.00728577004567,15,1
+"Bladder cancer",0.00728577004567,13,1
+"FoxO signaling pathway",0.00750032189849,30,1
+"Bacterial invasion of epithelial cells",0.00750032189849,15,1
+"Transcriptional misregulation in cancer",0.00750032189849,33,1
+"p53 signaling pathway",0.00956052015854,18,1
+"Epstein-Barr virus infection",0.00985663925481,42,1
+"Thyroid cancer",0.0146397663707,8,1
+"Ubiquitin mediated proteolysis",0.0171479081095,30,1
+"Huntington's disease",0.0171531902861,26,1
+"TGF-beta signaling pathway",0.0187620642273,20,1
+"PI3K-Akt signaling pathway",0.0283378024662,60,1
+"Colorectal cancer",0.0406700363566,13,1
+"Prostate cancer",0.0442374871244,20,1
+"HIF-1 signaling pathway",0.0443034431157,22,1
+

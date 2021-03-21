@@ -1,0 +1,29 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Adherens junction",1.71958884574e-06,16,1
+"Bacterial invasion of epithelial cells",0.000837893612622,13,1
+"ECM-receptor interaction",0.000841443867725,8,1
+Shigellosis,0.000841443867725,12,1
+"Prostate cancer",0.000841443867725,14,1
+"Viral carcinogenesis",0.00216191538451,23,1
+"Protein processing in endoplasmic reticulum",0.00380482431118,20,1
+"Proteoglycans in cancer",0.00588866593007,22,1
+"Steroid biosynthesis",0.00630980982332,2,1
+"p53 signaling pathway",0.00667524274769,12,1
+"FoxO signaling pathway",0.00751325175649,18,1
+"Oocyte meiosis",0.00751325175649,15,1
+"Cell cycle",0.0107621511181,16,1
+"PI3K-Akt signaling pathway",0.0175397189695,33,1
+"Biosynthesis of amino acids",0.0241873968938,10,1
+"mRNA surveillance pathway",0.0252808567589,13,1
+"ErbB signaling pathway",0.0252808567589,8,1
+"Ubiquitin mediated proteolysis",0.0252808567589,13,1
+"AMPK signaling pathway",0.0334775212608,16,1
+"RNA transport",0.0390635081731,19,1
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",0.0406462767242,6,1
+"Pathogenic Escherichia coli infection",0.0417623680982,9,1
+"Focal adhesion",0.0419091900686,22,1
+"Hepatitis B",0.0419091900686,11,1
+"HIF-1 signaling pathway",0.0421072102221,14,1
+"Salmonella infection",0.0421072102221,12,1
+"Estrogen signaling pathway",0.0490393563024,8,1
+

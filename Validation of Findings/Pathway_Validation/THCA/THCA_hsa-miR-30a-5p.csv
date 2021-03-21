@@ -1,0 +1,22 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Fatty acid biosynthesis;2.07E-17;4;1
+Proteoglycans in cancer;2.30E-06;39;1
+Ubiquitin mediated proteolysis;5.51E-06;42;1
+Mucin type O-Glycan biosynthesis;1.37E-05;8;1
+Oocyte meiosis;2.94E-05;30;1
+Pathways in cancer;5.83E-05;68;1
+Lysine degradation;0.00034902;12;1
+Colorectal cancer;0.000414548;18;1
+Fatty acid metabolism;0.000492382;9;1
+Protein processing in endoplasmic reticulum;0.00063029;36;1
+Central carbon metabolism in cancer;0.001415732;17;1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC);0.001854992;11;1
+Hippo signaling pathway;0.003033683;26;1
+RNA transport;0.004144418;34;1
+Viral carcinogenesis;0.00456906;32;1
+mRNA surveillance pathway;0.007024133;23;1
+Glioma;0.011687391;15;1
+Apoptosis;0.015503757;17;1
+Pancreatic cancer;0.030182457;15;1
+p53 signaling pathway;0.039828768;16;1
+Adherens junction;0.039828768;16;1

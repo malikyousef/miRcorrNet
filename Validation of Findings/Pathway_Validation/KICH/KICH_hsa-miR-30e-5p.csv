@@ -1,0 +1,18 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",3.34017333292e-19,3,1
+"Mucin type O-Glycan biosynthesis",1.23025577818e-08,8,1
+"Oocyte meiosis",8.79299070519e-08,30,1
+"Ubiquitin mediated proteolysis",1.02349399534e-07,40,1
+"Fatty acid metabolism",2.03839840392e-07,8,1
+"Lysine degradation",1.28941361706e-06,12,1
+"Pathways in cancer",0.000260683408425,55,1
+"p53 signaling pathway",0.00274757159406,17,1
+"Protein processing in endoplasmic reticulum",0.00851520223408,29,1
+"Viral carcinogenesis",0.00851520223408,27,1
+"Cell cycle",0.00989413849711,24,1
+"Progesterone-mediated oocyte maturation",0.00989413849711,19,1
+"Colorectal cancer",0.0134849137909,13,1
+"Proteoglycans in cancer",0.0263754716017,29,1
+"mRNA surveillance pathway",0.0336623691922,18,1
+"Adherens junction",0.0336623691922,14,1
+

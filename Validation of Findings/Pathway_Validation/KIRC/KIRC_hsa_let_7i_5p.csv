@@ -1,0 +1,32 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"ECM-receptor interaction",3.15066904027e-07,12,1
+"Viral carcinogenesis",1.58254999946e-06,39,1
+"Lysine degradation",5.11054580747e-06,12,1
+"Hepatitis B",6.68628364661e-06,37,1
+"Cell cycle",1.52271419163e-05,31,1
+"Hippo signaling pathway",3.28261071115e-05,33,1
+"Proteoglycans in cancer",6.51585839032e-05,43,1
+"Thyroid hormone signaling pathway",0.000203717325876,27,1
+"Pathways in cancer",0.000301310648365,70,1
+"Oocyte meiosis",0.000334950822554,27,1
+"Chronic myeloid leukemia",0.000446054645173,19,1
+Glioma,0.00088100929251,17,1
+"Adherens junction",0.00154279465977,22,1
+"Estrogen signaling pathway",0.00334510057688,17,1
+"Small cell lung cancer",0.00334510057688,22,1
+"Bacterial invasion of epithelial cells",0.0048595249826,16,1
+"FoxO signaling pathway",0.00567774361265,31,1
+"Bladder cancer",0.00823243892156,13,1
+Melanoma,0.00862007554104,15,1
+"p53 signaling pathway",0.0128915047277,18,1
+"PI3K-Akt signaling pathway",0.0129760748929,63,1
+"Epstein-Barr virus infection",0.0133386900971,42,1
+"Prostate cancer",0.0133386900971,22,1
+"Thyroid cancer",0.0171343096146,8,1
+"TGF-beta signaling pathway",0.0248964060725,20,1
+"Transcriptional misregulation in cancer",0.0250330040044,31,1
+"MAPK signaling pathway",0.0297075781126,41,1
+"Protein processing in endoplasmic reticulum",0.0297075781126,32,1
+Endocytosis,0.0325985592952,38,1
+"Colorectal cancer",0.0464964005535,13,1
+

@@ -1,0 +1,9 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Fatty acid biosynthesis",2.34919977941e-31,1,1
+"Fatty acid metabolism",3.03725462292e-09,2,1
+"Proteoglycans in cancer",1.28913927837e-05,13,1
+"Central carbon metabolism in cancer",0.000163608478502,7,1
+"Parkinson's disease",0.016528809547,4,1
+"Pathways in cancer",0.0271710694964,20,1
+"Huntington's disease",0.0272986507867,5,1
+

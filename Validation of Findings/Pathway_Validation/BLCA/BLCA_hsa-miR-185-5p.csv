@@ -1,0 +1,8 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Hippo signaling pathway",7.65749724009e-08,14,1
+"ECM-receptor interaction",1.17377311077e-07,6,1
+"Cell cycle",0.000621099984534,16,1
+"Adherens junction",0.000621099984534,9,1
+"Protein processing in endoplasmic reticulum",0.0196080360681,12,1
+"Viral carcinogenesis",0.0230034166367,20,1
+

@@ -1,0 +1,23 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Prion diseases;2.54E-18;3;1
+Fatty acid biosynthesis;1.25E-17;2;1
+Steroid biosynthesis;5.92E-06;6;1
+Viral carcinogenesis;0.00017269;38;1
+Oocyte meiosis;0.000858798;22;1
+Proteoglycans in cancer;0.000887381;32;1
+Chronic myeloid leukemia;0.002442139;19;1
+Lysine degradation;0.002948387;9;1
+Sulfur metabolism;0.003744778;2;1
+TGF-beta signaling pathway;0.003744778;15;1
+p53 signaling pathway;0.003897898;17;1
+Cell cycle;0.004870689;25;1
+Progesterone-mediated oocyte maturation;0.006507727;20;1
+FoxO signaling pathway;0.012888255;28;1
+Glioma;0.012888255;14;1
+Transcriptional misregulation in cancer;0.016647319;25;1
+Hepatitis B;0.018665121;24;1
+Renal cell carcinoma;0.020690815;13;1
+Gap junction;0.024971721;19;1
+Antigen processing and presentation;0.02546886;13;1
+Central carbon metabolism in cancer;0.036901638;13;1
+Endocytosis;0.049011397;33;1

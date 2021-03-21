@@ -1,0 +1,24 @@
+KEGG pathway;p-value;#genes;#miRNAs
+MicroRNAs in cancer;2,07E+00;36;1
+Lysine degradation;1,12E+06;7;1
+Pathways in cancer;1,12E+06;40;1
+Oocyte meiosis;5,27E+06;16;1
+Endocytosis;5,27E+06;20;1
+Ubiquitin mediated proteolysis;7,69E+06;22;1
+Hippo signaling pathway;0.00034034690362;21;1
+Adherens junction;0.000866377896762;11;1
+Proteoglycans in cancer;0.00182307205946;21;1
+TGF-beta signaling pathway;0.00206255857819;9;1
+p53 signaling pathway;0.00233704598651;12;1
+Bacterial invasion of epithelial cells;0.00233704598651;12;1
+Protein processing in endoplasmic reticulum;0.00271218679617;17;1
+Small cell lung cancer;0.00271218679617;13;1
+Ras signaling pathway;0.00310216251691;24;1
+Chronic myeloid leukemia;0.0145797877833;10;1
+RNA transport;0.0149678169383;16;1
+PI3K-Akt signaling pathway;0.0178775670072;29;1
+Colorectal cancer;0.0178775670072;9;1
+Neurotrophin signaling pathway;0.0336236691195;15;1
+Wnt signaling pathway;0.0375408904269;14;1
+Viral carcinogenesis;0.0443003975515;17;1
+Adrenergic signaling in cardiomyocytes;0.0479611484516;10;1

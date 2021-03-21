@@ -1,0 +1,8 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Adherens junction",0.0334427212732,3,1
+"Lysine degradation",0.0358208863503,2,1
+Apoptosis,0.0358208863503,3,1
+"Vitamin digestion and absorption",0.0358208863503,1,1
+Spliceosome,0.0410914441062,6,1
+Peroxisome,0.0482538277661,4,1
+

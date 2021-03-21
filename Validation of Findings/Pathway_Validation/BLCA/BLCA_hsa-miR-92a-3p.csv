@@ -1,0 +1,30 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Lysine degradation",1.05486113629e-07,11,1
+"Adherens junction",2.27582401375e-05,16,1
+"Cell cycle",0.000137731866567,27,1
+"Valine, leucine and isoleucine biosynthesis",0.00027973710198,2,1
+"Signaling pathways regulating pluripotency of stem cells",0.00027973710198,26,1
+"FoxO signaling pathway",0.00037035242222,25,1
+"Bacterial invasion of epithelial cells",0.00037035242222,15,1
+"Chronic myeloid leukemia",0.00037035242222,15,1
+"Colorectal cancer",0.00102288283892,13,1
+Shigellosis,0.00334561903081,13,1
+"Hepatitis B",0.00430714349309,22,1
+"Prostate cancer",0.00505245788517,17,1
+"Viral carcinogenesis",0.00548196913856,25,1
+"Endometrial cancer",0.00548196913856,10,1
+"Huntington's disease",0.00774080188905,19,1
+"Regulation of actin cytoskeleton",0.00857450165994,28,1
+"Pathways in cancer",0.00903696943749,45,1
+"Thyroid cancer",0.00903696943749,6,1
+"MAPK signaling pathway",0.0106587542238,30,1
+"Oocyte meiosis",0.0111921251473,14,1
+"Thyroid hormone signaling pathway",0.0128352435013,20,1
+"Proteoglycans in cancer",0.0228035727416,25,1
+"TGF-beta signaling pathway",0.0279881575956,11,1
+Endocytosis,0.0398469657655,24,1
+"Transcriptional misregulation in cancer",0.0427957284045,22,1
+"ErbB signaling pathway",0.0475481739602,16,1
+"Long-term depression",0.0475481739602,9,1
+"Hippo signaling pathway",0.0479303576694,19,1
+

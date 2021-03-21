@@ -1,0 +1,2 @@
+Disease	Name of the miRNA
+KICH	 hsa-miR-1287

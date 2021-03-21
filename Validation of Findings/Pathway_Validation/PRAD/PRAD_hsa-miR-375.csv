@@ -1,0 +1,15 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Hippo signaling pathway;3.74E-06;18;1
+Lysine degradation;1.33E-05;8;1
+Protein processing in endoplasmic reticulum;0.000112174;25;1
+Proteoglycans in cancer;0.000283992;22;1
+Viral carcinogenesis;0.001698585;26;1
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate;0.003127891;2;1
+Endocytosis;0.006255347;22;1
+FoxO signaling pathway;0.006953198;17;1
+Adherens junction;0.006953198;10;1
+Central carbon metabolism in cancer;0.006953198;9;1
+Thyroid hormone signaling pathway;0.011112307;13;1
+Amino sugar and nucleotide sugar metabolism;0.035337086;5;1
+RNA transport;0.047661697;17;1
+p53 signaling pathway;0.047661697;8;1

@@ -1,0 +1,8 @@
+KEGG pathway;p-value;#genes;#miRNAs;
+Antigen processing and presentation;0.00171269919294;5;1;
+Allograft rejection;0.0047401113985;3;1;
+Circadian rhythm;0.00475831467708;5;1;
+Valine; leucine and isoleucine biosynthesis;0.0319023540072;1;1
+RNA transport;0.0319023540072;12;1;
+Adherens junction;0.0319023540072;6;1;
+Bacterial invasion of epithelial cells;0.0319023540072;5;1;

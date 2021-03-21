@@ -1,0 +1,26 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Proteoglycans in cancer",1.24659488854e-05,8,1
+"Pancreatic cancer",9.46596645021e-05,8,1
+"Non-small cell lung cancer",9.46596645021e-05,8,1
+Glioma,0.000246415144033,7,1
+"Chronic myeloid leukemia",0.00149096291956,9,1
+"Endometrial cancer",0.00226109771598,6,1
+"Central carbon metabolism in cancer",0.00226109771598,8,1
+"Signaling pathways regulating pluripotency of stem cells",0.00252242355863,8,1
+"mTOR signaling pathway",0.00351620687905,8,1
+"Viral carcinogenesis",0.00502830453487,9,1
+"Type II diabetes mellitus",0.00535264449961,6,1
+"Renal cell carcinoma",0.00535264449961,8,1
+"Small cell lung cancer",0.00535264449961,9,1
+"Aldosterone-regulated sodium reabsorption",0.00555557908321,6,1
+"Estrogen signaling pathway",0.00657753999908,7,1
+"Prostate cancer",0.00657753999908,9,1
+"Pathways in cancer",0.0101165293155,17,1
+"Prolactin signaling pathway",0.0114677142207,5,1
+"Platelet activation",0.0116811063896,7,1
+"Sphingolipid signaling pathway",0.0131043516923,6,1
+"Colorectal cancer",0.0223737769628,6,1
+Melanoma,0.0288760271837,7,1
+"VEGF signaling pathway",0.0357851680561,6,1
+"FoxO signaling pathway",0.0382995083816,10,1
+

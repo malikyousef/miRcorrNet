@@ -1,0 +1,5 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Lysine degradation;2,41E+04;8;1
+p53 signaling pathway;0.00119861252072;10;1
+Proteoglycans in cancer;0.014533357247;15;1
+Fatty acid biosynthesis;0.0291111780346;1;1

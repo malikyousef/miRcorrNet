@@ -1,0 +1,35 @@
+KEGG pathway;p-value;#genes;#miRNAs
+Proteoglycans in cancer;1.07E-09;22;1
+Viral carcinogenesis;1.76E-06;23;1
+Non-small cell lung cancer;3.08E-06;11;1
+Endometrial cancer;0.000104756;11;1
+Renal cell carcinoma;0.000270759;14;1
+FoxO signaling pathway;0.00027566;22;1
+Colorectal cancer;0.00027566;11;1
+Glioma;0.00027566;11;1
+Chronic myeloid leukemia;0.00027566;14;1
+Pancreatic cancer;0.000301274;12;1
+Signaling pathways regulating pluripotency of stem cells;0.00040365;17;1
+Mucin type O-Glycan biosynthesis;0.000604245;3;1
+Prostate cancer;0.000875559;16;1
+p53 signaling pathway;0.000907633;13;1
+mTOR signaling pathway;0.002244049;12;1
+Aldosterone-regulated sodium reabsorption;0.003457811;9;1
+Bacterial invasion of epithelial cells;0.003457811;12;1
+Prolactin signaling pathway;0.00641765;9;1
+Neurotrophin signaling pathway;0.009999778;17;1
+Sphingolipid signaling pathway;0.016383712;13;1
+Focal adhesion;0.016383712;23;1
+Pathways in cancer;0.016383712;28;1
+PI3K-Akt signaling pathway;0.023794697;28;1
+Acute myeloid leukemia;0.023794697;9;1
+Thyroid hormone signaling pathway;0.027203789;17;1
+Melanoma;0.032130747;10;1
+Fatty acid degradation;0.035759125;1;1
+Estrogen signaling pathway;0.035759125;10;1
+AMPK signaling pathway;0.03951185;16;1
+Fc gamma R-mediated phagocytosis;0.039512109;12;1
+Circadian rhythm;0.039512109;5;1
+Insulin signaling pathway;0.041076583;16;1
+Hepatitis B;0.047973149;16;1
+Fc epsilon RI signaling pathway;0.049216547;10;1

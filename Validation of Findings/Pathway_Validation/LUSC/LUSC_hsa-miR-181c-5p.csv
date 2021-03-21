@@ -1,0 +1,11 @@
+"KEGG pathway",p-value,#genes,#miRNAs
+"Biotin metabolism",2.28321756757e-05,1,1
+"Estrogen signaling pathway",0.000809828665029,20,1
+"Protein processing in endoplasmic reticulum",0.00215939597902,26,1
+"Dorso-ventral axis formation",0.00429879111083,9,1
+"Hippo signaling pathway",0.00769493836826,17,1
+"Renal cell carcinoma",0.0171067592765,13,1
+Glioma,0.0243385880048,10,1
+"Prostate cancer",0.0243385880048,16,1
+"Acute myeloid leukemia",0.0420359166902,10,1
+
