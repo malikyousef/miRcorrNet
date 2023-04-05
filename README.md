@@ -7,12 +7,14 @@ miRcorrNet uses 2 different data sheets with same control-case column. It means 
 ## mRNA Data (Gene Expression)
 In mRNA data one should have samples in the rows and gene names in the columns but the type of the genes should be double. The "class" column represents the sample whether control or case. The type of class column should be String and there can be only 2 classes. Below one can see the some chunk of the mRNA data.
  
- ![alt text](https://github.com/gokhangoy/miRcorrNet/blob/master/Data%20Graphics/README%20Figures/mRNA_Data.JPG)
+ ![alt text](https://github.com/malikyousef/miRcorrNet/blob/main/Data%20Graphics/README%20Figures/mRNA_Data.JPG)
  
 ## microRNA Data
 In miRNA data one should have samples in the rows and microRNA names in the columns but the type of the genes should be String. The "class" column represents the sample whether control or case. The type of class column should be String and there can be only 2 classes. Below one can see the some chunk of the miRNA data.
 
- ![alt text](https://github.com/gokhangoy/miRcorrNet/blob/master/Data%20Graphics/README%20Figures/miRNA_Data.JPG)
+ ![alt text](https://github.com/malikyousef/miRcorrNet/blob/master/Data%20Graphics/README%20Figures/miRNA_Data.JPG)
+
+![alt text](https://github.com/malikyousef/3Mint/blob/main/Images/GSM_approach_in_3Mint.PNG?raw=true)
 
 ## Set up Parameters
 
